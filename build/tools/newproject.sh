@@ -1,10 +1,4 @@
 #!env bash
-# -*- coding: utf-8 -*-
-#Filename:    newproject.sh
-#Porject :    
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-07-02
 . ${PORT_TOOLS}/main.sh
 function newproject()
 {

@@ -1,10 +1,4 @@
 #!env bash
-# -*- coding: utf-8 -*-
-#Filename:    envsetup.sh
-#Porject :    InsprionBuildSystem
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-29
 export RED="\033[31;1m"
 export erase="\033[0m"
 export BLUE="\033[34;5m"

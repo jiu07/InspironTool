@@ -1,10 +1,4 @@
 #!env bash
-# -*- coding: utf-8 -*-
-#Filename:    main.sh
-#Porject :    InsprionBuildSystem
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-30
 function mk_timer()
 {
     local start_time=$(date +"%s")

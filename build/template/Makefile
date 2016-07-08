@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#Filename:    template/Makefile
-#Porject :    InsprionBuildSystem
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-29
 # 目标底包
 PORT_ROM := port.zip
 

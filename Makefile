@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#Filename:    Makefile
-#Porject :    InsprionRoot
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-29
 ifneq ($(PORT_BUILD),)
 warning:
 	@echo -e "$(ERROR) Do you want 'make create'?"

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#Filename:    port.mk
-#Porject :    InsprionBuildSystem
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-29
 .PHONY:port
 port:port_system port_boot port_updater
 .PHONY:port_system

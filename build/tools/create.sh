@@ -1,10 +1,4 @@
 #!env bash
-# -*- coding: utf-8 -*-
-#Filename:    create.sh
-#Porject :    InspironBuildSystem
-#Author  :    zerozakiGeek
-#Email   :    zerozakiGeek@gmail.com
-#Date    :    2016-06-29
 . ${PORT_TOOLS}/main.sh
 function create()
 {
